@@ -178,7 +178,7 @@
 
 @media (min-width: 290px ) and (max-width: 768px ){
     #tabs{
-        color: red;
+        
         display: inline;
     }
     .flight_inputs,
